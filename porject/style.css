@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f8ff;
+    padding: 20px;
+}
+
+h1 {
+    color: #3f1a76;
+}
+
+#output {
+    color: aquamarine;
+    background: #000000;
+    padding: 20px;
+    border-radius: 10px;
+}
